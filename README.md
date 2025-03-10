@@ -30,9 +30,9 @@ Prerequisites: You must have an iPhone running iOS 17.2 at least.<br>
 
 ## Screenshots
 <p align="center">
-<img alt="Project Screenshot" width="300" src="https://github.com/user-attachments/assets/c59b7196-65e8-441d-8ecd-7df7f4fb49b1">
-<img alt="Project Screenshot" width="300" src="https://github.com/user-attachments/assets/a1d930c8-0d11-46bb-a38e-6590eded7a45">
-<img alt="Project Screenshot" width="300" src="https://github.com/user-attachments/assets/f74741b4-6f99-4fd7-9beb-e54fa51cec7a"></p>
+<img alt="Project Screenshot" width="250" src="https://github.com/user-attachments/assets/c59b7196-65e8-441d-8ecd-7df7f4fb49b1">
+<img alt="Project Screenshot" width="250" src="https://github.com/user-attachments/assets/a1d930c8-0d11-46bb-a38e-6590eded7a45">
+<img alt="Project Screenshot" width="250" src="https://github.com/user-attachments/assets/f74741b4-6f99-4fd7-9beb-e54fa51cec7a"></p>
 <br>
 
 ## Author
