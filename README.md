@@ -20,7 +20,10 @@ Pace of Mind has been designed and developed to help women get in tune with thei
 <br>
 
 ## Features
-- .
+- Factor selection
+- Emotion calculator, based on the selected factors
+- Text and Visual feedback on result calculation
+- Haptic feedback on result calculation
 <br>
 
 ## How to Run
